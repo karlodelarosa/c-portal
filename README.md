@@ -1,5 +1,4 @@
 # C-Portal Project
-***
 
 ## Prerequisite
 1. Install Docker
