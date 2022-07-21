@@ -1,4 +1,5 @@
 # C-Portal Project
+Web App for tracking attendance, financial reports and saving project information.
 
 ## Prerequisite
 1. Install Docker
